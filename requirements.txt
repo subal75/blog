@@ -1,0 +1,4 @@
+Django==5.0.4
+djangorestframework
+pillow==10.3.0
+djangorestframework-authtoken
